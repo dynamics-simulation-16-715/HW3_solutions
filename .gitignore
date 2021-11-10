@@ -23,3 +23,5 @@ docs/site/
 # environment.
 Manifest.toml
 Q1v1/.DS_Store
+
+src/.ipynb_checkpoints/
